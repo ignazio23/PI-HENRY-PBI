@@ -2,11 +2,11 @@
  <b>PROYECTO INDIVIDUAL Nº2</b>
 </h1>
  
-# <h1 align="center">**`Siniestros viales`**</h1>
+# <h1 align="center">**`Siniestros Viales`**</h1>
 
-¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
+¡Bienvenidos al proyecto individual de la etapa de labs vinculado a Analytics!
 
-## **Descripción del problema**
+## **Descripción del Problema**
 
 Los siniestros viales, también conocidos como accidentes de tráfico o accidentes de tránsito, son eventos que involucran vehículos en las vías públicas y que pueden tener diversas causas, como colisiones entre automóviles, motocicletas, bicicletas o peatones, atropellos, choques con objetos fijos o caídas de vehículos. Estos incidentes pueden tener consecuencias que van desde daños materiales hasta lesiones graves o fatales para los involucrados.
 
@@ -30,7 +30,7 @@ El `Observatorio de Movilidad y Seguridad Vial`, centro de estudios que se encue
 Con esto en mente, nos brindan datasets con información sobre siniestros viales sucedidos en la Ciudad de Buenos Aires durante el periodo abarcado desde el año 2016 al año 2021. Estos datasets se encuentran en formato *xlsx* y contienen varias hojas. Observaremos que incluyen otras hojas adicionales las cuales coinciden con los diccionarios de datos.
 
 
-## **Propuesta de trabajo - Objetivos del Entregable**
+## **Propuesta de Trabajo - Objetivos del Entregable**
 
 `EDA` (Exploratory Data Analysis)
 
